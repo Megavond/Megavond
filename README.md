@@ -1,7 +1,23 @@
-## Hi there 👋
+<h1>Hi, I'm Gary! 
+<h2>👨‍💻 Azure projects:</h2>
 
-<!--
-**Megavond/Megavond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Setting up Virtual Machines and migrating from on premise to cloud.
+  
+
+<h2>Certifications</h2>
+
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/garylavende-6016/transcript/vmlg2hgez5m2rw3)
+- [Google Cybersecurity](https://coursera.org/share/a0b4234b201fc45020673cdf354b80bb)
+  
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/
+[linkedin]: https://linkedin.com/in/garyantoniolavende
+
+
 
 Here are some ideas to get you started:
 
