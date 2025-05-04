@@ -6,7 +6,7 @@
 
 <h2>Certifications</h2>
 
-- [Microsoft Certified: Azure Fundamentals]([![Microsoft AZ 900 cert pic](https://github.com/user-attachments/assets/2e7e3c54-7852-4f36-b831-3d456b0e9105](https://learn.microsoft.com/api/credentials/share/en-us/GaryLavende-6016/21E25777C78AA389?sharingId=F98FADCBD3E9785A))
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/GaryLavende-6016/21E25777C78AA389?sharingId=F98FADCBD3E9785A)
 - [Google Cybersecurity](https://coursera.org/share/a0b4234b201fc45020673cdf354b80bb)
   
 <h2> 🤳 Connect with me:</h2>
