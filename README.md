@@ -6,7 +6,8 @@
 
 <h2>Certifications</h2>
 
-- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/en-us/users/garylavende-6016/transcript/vmlg2hgez5m2rw3)
+- [Microsoft Certified: Azure Fundamentals](![image](https://github.com/user-attachments/assets/913cebad-a044-4fac-91b8-b106a29fd382)
+)
 - [Google Cybersecurity](https://coursera.org/share/a0b4234b201fc45020673cdf354b80bb)
   
 <h2> 🤳 Connect with me:</h2>
